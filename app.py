@@ -5,16 +5,16 @@ import matplotlib.pyplot as plt
 # Load data
 df = pd.read_csv('data/music_dataset_500.csv')
 
-# ----------------------------
+# ----------------
 # PAGE CONFIG
-# ----------------------------
+# ----------------
 st.set_page_config(page_title="Music Recommender", layout="wide")
 
 st.title("🎧 Music Recommendation & Analytics Dashboard")
 
-# ---------------------
+# ----------------
 # SIDEBAR MENU
-# ---------------------
+# ----------------
 menu = st.sidebar.selectbox(
     "Choose Option",
     ["Recommend Songs", "Search Song", "Trending Songs", "Analytics Dashboard"]
