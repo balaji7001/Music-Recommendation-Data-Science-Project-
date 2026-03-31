@@ -12,17 +12,17 @@ st.set_page_config(page_title="Music Recommender", layout="wide")
 
 st.title("🎧 Music Recommendation & Analytics Dashboard")
 
-# ----------------------------
+# ---------------------
 # SIDEBAR MENU
-# ----------------------------
+# ---------------------
 menu = st.sidebar.selectbox(
     "Choose Option",
     ["Recommend Songs", "Search Song", "Trending Songs", "Analytics Dashboard"]
 )
 
-# ----------------------------
+# -------------------
 # 1. RECOMMENDATION
-# ----------------------------
+# -------------------
 if menu == "Recommend Songs":
     st.header("🎶 Recommend Songs")
 
