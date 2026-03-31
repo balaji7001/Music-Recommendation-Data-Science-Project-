@@ -1,0 +1,521 @@
+id,song,artist,genre,language
+1,Romantic Song 1,Taylor Swift,Romantic,English
+2,HipHop Song 2,Thaman S,HipHop,Telugu
+3,Romantic Song 3,Yuvan Shankar Raja,Romantic,Tamil
+4,EDM Song 4,Shreya Ghoshal,EDM,Hindi
+5,Rock Song 5,Dua Lipa,Rock,English
+6,Rock Song 6,Sid Sriram,Rock,Telugu
+7,Romantic Song 7,Devi Sri Prasad,Romantic,Telugu
+8,HipHop Song 8,Thaman S,HipHop,Telugu
+9,Fusion Song 9,Sid Sriram,Fusion,Telugu
+10,Romantic Song 10,Taylor Swift,Romantic,English
+11,HipHop Song 11,Neha Kakkar,HipHop,Hindi
+12,Fusion Song 12,Sid Sriram,Fusion,Tamil
+13,Fusion Song 13,Sid Sriram,Fusion,Tamil
+14,EDM Song 14,Taylor Swift,EDM,English
+15,EDM Song 15,Yuvan Shankar Raja,EDM,Tamil
+16,HipHop Song 16,Taylor Swift,HipHop,English
+17,EDM Song 17,Dhanush,EDM,Tamil
+18,EDM Song 18,Yuvan Shankar Raja,EDM,Tamil
+19,Romantic Song 19,The Weeknd,Romantic,English
+20,HipHop Song 20,Devi Sri Prasad,HipHop,Telugu
+21,Fusion Song 21,Neha Kakkar,Fusion,Hindi
+22,Fusion Song 22,Yuvan Shankar Raja,Fusion,Tamil
+23,HipHop Song 23,Sid Sriram,HipHop,Telugu
+24,Romantic Song 24,Sid Sriram,Romantic,Telugu
+25,HipHop Song 25,Yuvan Shankar Raja,HipHop,Tamil
+26,EDM Song 26,Taylor Swift,EDM,English
+27,Pop Song 27,Atif Aslam,Pop,Hindi
+28,EDM Song 28,Dua Lipa,EDM,English
+29,Romantic Song 29,The Weeknd,Romantic,English
+30,Romantic Song 30,Ed Sheeran,Romantic,English
+31,Pop Song 31,Neha Kakkar,Pop,Hindi
+32,EDM Song 32,Sid Sriram,EDM,Tamil
+33,Fusion Song 33,Thaman S,Fusion,Telugu
+34,Fusion Song 34,Devi Sri Prasad,Fusion,Telugu
+35,Rock Song 35,Dua Lipa,Rock,English
+36,Rock Song 36,Sid Sriram,Rock,Telugu
+37,Romantic Song 37,Sid Sriram,Romantic,Telugu
+38,Rock Song 38,Devi Sri Prasad,Rock,Telugu
+39,EDM Song 39,Arijit Singh,EDM,Hindi
+40,Pop Song 40,Anirudh Ravichander,Pop,Tamil
+41,Romantic Song 41,Sid Sriram,Romantic,Tamil
+42,Fusion Song 42,Neha Kakkar,Fusion,Hindi
+43,Pop Song 43,Dua Lipa,Pop,English
+44,EDM Song 44,Atif Aslam,EDM,Hindi
+45,Rock Song 45,Thaman S,Rock,Telugu
+46,Fusion Song 46,Yuvan Shankar Raja,Fusion,Tamil
+47,HipHop Song 47,Sid Sriram,HipHop,Tamil
+48,Rock Song 48,The Weeknd,Rock,English
+49,Pop Song 49,Arijit Singh,Pop,Hindi
+50,Rock Song 50,Devi Sri Prasad,Rock,Telugu
+51,Rock Song 51,Arijit Singh,Rock,Hindi
+52,HipHop Song 52,Shreya Ghoshal,HipHop,Hindi
+53,HipHop Song 53,Atif Aslam,HipHop,Hindi
+54,EDM Song 54,Anirudh Ravichander,EDM,Tamil
+55,Pop Song 55,Sid Sriram,Pop,Tamil
+56,Rock Song 56,Arijit Singh,Rock,Hindi
+57,EDM Song 57,Atif Aslam,EDM,Hindi
+58,Fusion Song 58,Anirudh Ravichander,Fusion,Tamil
+59,Pop Song 59,Taylor Swift,Pop,English
+60,Rock Song 60,Anirudh Ravichander,Rock,Tamil
+61,Pop Song 61,Dua Lipa,Pop,English
+62,Pop Song 62,Dhanush,Pop,Tamil
+63,Pop Song 63,Taylor Swift,Pop,English
+64,EDM Song 64,Ed Sheeran,EDM,English
+65,Romantic Song 65,Taylor Swift,Romantic,English
+66,HipHop Song 66,The Weeknd,HipHop,English
+67,Romantic Song 67,The Weeknd,Romantic,English
+68,Pop Song 68,Arijit Singh,Pop,Hindi
+69,EDM Song 69,Sid Sriram,EDM,Telugu
+70,EDM Song 70,Sid Sriram,EDM,Telugu
+71,Pop Song 71,Devi Sri Prasad,Pop,Telugu
+72,Romantic Song 72,Thaman S,Romantic,Telugu
+73,EDM Song 73,The Weeknd,EDM,English
+74,HipHop Song 74,Anirudh Ravichander,HipHop,Telugu
+75,Pop Song 75,Ed Sheeran,Pop,English
+76,Rock Song 76,Sid Sriram,Rock,Telugu
+77,Romantic Song 77,Dhanush,Romantic,Tamil
+78,Pop Song 78,Devi Sri Prasad,Pop,Telugu
+79,Romantic Song 79,Atif Aslam,Romantic,Hindi
+80,HipHop Song 80,Sid Sriram,HipHop,Telugu
+81,Fusion Song 81,Shreya Ghoshal,Fusion,Hindi
+82,Pop Song 82,Anirudh Ravichander,Pop,Telugu
+83,EDM Song 83,Dua Lipa,EDM,English
+84,Romantic Song 84,Sid Sriram,Romantic,Tamil
+85,EDM Song 85,Devi Sri Prasad,EDM,Telugu
+86,Fusion Song 86,Anirudh Ravichander,Fusion,Telugu
+87,EDM Song 87,Yuvan Shankar Raja,EDM,Tamil
+88,Romantic Song 88,Dhanush,Romantic,Tamil
+89,Pop Song 89,Yuvan Shankar Raja,Pop,Tamil
+90,Fusion Song 90,Neha Kakkar,Fusion,Hindi
+91,EDM Song 91,Shreya Ghoshal,EDM,Hindi
+92,HipHop Song 92,Neha Kakkar,HipHop,Hindi
+93,EDM Song 93,Sid Sriram,EDM,Tamil
+94,Romantic Song 94,Dhanush,Romantic,Tamil
+95,Fusion Song 95,Thaman S,Fusion,Telugu
+96,Pop Song 96,Arijit Singh,Pop,Hindi
+97,Romantic Song 97,Dhanush,Romantic,Tamil
+98,HipHop Song 98,Yuvan Shankar Raja,HipHop,Tamil
+99,Rock Song 99,Yuvan Shankar Raja,Rock,Tamil
+100,Romantic Song 100,Sid Sriram,Romantic,Telugu
+101,EDM Song 101,Ed Sheeran,EDM,English
+102,Romantic Song 102,Anirudh Ravichander,Romantic,Telugu
+103,Rock Song 103,Taylor Swift,Rock,English
+104,EDM Song 104,Anirudh Ravichander,EDM,Tamil
+105,Fusion Song 105,Shreya Ghoshal,Fusion,Hindi
+106,Fusion Song 106,Dua Lipa,Fusion,English
+107,Fusion Song 107,Atif Aslam,Fusion,Hindi
+108,Fusion Song 108,Neha Kakkar,Fusion,Hindi
+109,EDM Song 109,Dhanush,EDM,Tamil
+110,HipHop Song 110,Anirudh Ravichander,HipHop,Telugu
+111,Fusion Song 111,Anirudh Ravichander,Fusion,Tamil
+112,Fusion Song 112,Yuvan Shankar Raja,Fusion,Tamil
+113,Romantic Song 113,Anirudh Ravichander,Romantic,Telugu
+114,EDM Song 114,Sid Sriram,EDM,Telugu
+115,HipHop Song 115,Neha Kakkar,HipHop,Hindi
+116,Romantic Song 116,Thaman S,Romantic,Telugu
+117,Rock Song 117,Atif Aslam,Rock,Hindi
+118,Fusion Song 118,Anirudh Ravichander,Fusion,Telugu
+119,Fusion Song 119,Arijit Singh,Fusion,Hindi
+120,Romantic Song 120,Sid Sriram,Romantic,Telugu
+121,Romantic Song 121,Thaman S,Romantic,Telugu
+122,HipHop Song 122,Atif Aslam,HipHop,Hindi
+123,Pop Song 123,Ed Sheeran,Pop,English
+124,Pop Song 124,Sid Sriram,Pop,Tamil
+125,HipHop Song 125,Yuvan Shankar Raja,HipHop,Tamil
+126,EDM Song 126,Ed Sheeran,EDM,English
+127,Romantic Song 127,Shreya Ghoshal,Romantic,Hindi
+128,Rock Song 128,Thaman S,Rock,Telugu
+129,Romantic Song 129,The Weeknd,Romantic,English
+130,Rock Song 130,Devi Sri Prasad,Rock,Telugu
+131,Rock Song 131,Devi Sri Prasad,Rock,Telugu
+132,HipHop Song 132,Arijit Singh,HipHop,Hindi
+133,HipHop Song 133,Atif Aslam,HipHop,Hindi
+134,HipHop Song 134,Thaman S,HipHop,Telugu
+135,HipHop Song 135,Shreya Ghoshal,HipHop,Hindi
+136,HipHop Song 136,Shreya Ghoshal,HipHop,Hindi
+137,EDM Song 137,Neha Kakkar,EDM,Hindi
+138,EDM Song 138,Thaman S,EDM,Telugu
+139,Romantic Song 139,Sid Sriram,Romantic,Telugu
+140,Pop Song 140,Neha Kakkar,Pop,Hindi
+141,Pop Song 141,Devi Sri Prasad,Pop,Telugu
+142,Fusion Song 142,Ed Sheeran,Fusion,English
+143,Pop Song 143,Dhanush,Pop,Tamil
+144,Fusion Song 144,Neha Kakkar,Fusion,Hindi
+145,EDM Song 145,Dua Lipa,EDM,English
+146,Rock Song 146,Thaman S,Rock,Telugu
+147,EDM Song 147,Sid Sriram,EDM,Telugu
+148,Romantic Song 148,Shreya Ghoshal,Romantic,Hindi
+149,Romantic Song 149,Devi Sri Prasad,Romantic,Telugu
+150,HipHop Song 150,Atif Aslam,HipHop,Hindi
+151,Rock Song 151,Sid Sriram,Rock,Telugu
+152,Romantic Song 152,Dua Lipa,Romantic,English
+153,Romantic Song 153,Dhanush,Romantic,Tamil
+154,Rock Song 154,Anirudh Ravichander,Rock,Tamil
+155,Fusion Song 155,Atif Aslam,Fusion,Hindi
+156,Romantic Song 156,The Weeknd,Romantic,English
+157,Pop Song 157,Sid Sriram,Pop,Telugu
+158,Romantic Song 158,Anirudh Ravichander,Romantic,Telugu
+159,Romantic Song 159,Dua Lipa,Romantic,English
+160,Pop Song 160,Shreya Ghoshal,Pop,Hindi
+161,Romantic Song 161,Dhanush,Romantic,Tamil
+162,Romantic Song 162,Thaman S,Romantic,Telugu
+163,Romantic Song 163,Thaman S,Romantic,Telugu
+164,HipHop Song 164,Sid Sriram,HipHop,Telugu
+165,Pop Song 165,Dua Lipa,Pop,English
+166,Romantic Song 166,Anirudh Ravichander,Romantic,Tamil
+167,Fusion Song 167,Dhanush,Fusion,Tamil
+168,Pop Song 168,Dhanush,Pop,Tamil
+169,EDM Song 169,The Weeknd,EDM,English
+170,Romantic Song 170,Sid Sriram,Romantic,Tamil
+171,Pop Song 171,Yuvan Shankar Raja,Pop,Tamil
+172,HipHop Song 172,Dua Lipa,HipHop,English
+173,HipHop Song 173,Arijit Singh,HipHop,Hindi
+174,HipHop Song 174,Thaman S,HipHop,Telugu
+175,Fusion Song 175,Thaman S,Fusion,Telugu
+176,EDM Song 176,Ed Sheeran,EDM,English
+177,HipHop Song 177,Arijit Singh,HipHop,Hindi
+178,Pop Song 178,Shreya Ghoshal,Pop,Hindi
+179,HipHop Song 179,Taylor Swift,HipHop,English
+180,EDM Song 180,Anirudh Ravichander,EDM,Telugu
+181,HipHop Song 181,Anirudh Ravichander,HipHop,Tamil
+182,EDM Song 182,The Weeknd,EDM,English
+183,Fusion Song 183,Anirudh Ravichander,Fusion,Tamil
+184,HipHop Song 184,The Weeknd,HipHop,English
+185,HipHop Song 185,Yuvan Shankar Raja,HipHop,Tamil
+186,Fusion Song 186,Yuvan Shankar Raja,Fusion,Tamil
+187,Romantic Song 187,Sid Sriram,Romantic,Telugu
+188,HipHop Song 188,Arijit Singh,HipHop,Hindi
+189,HipHop Song 189,Dua Lipa,HipHop,English
+190,Fusion Song 190,Arijit Singh,Fusion,Hindi
+191,Pop Song 191,Taylor Swift,Pop,English
+192,Romantic Song 192,Atif Aslam,Romantic,Hindi
+193,EDM Song 193,Dhanush,EDM,Tamil
+194,HipHop Song 194,Dhanush,HipHop,Tamil
+195,HipHop Song 195,Taylor Swift,HipHop,English
+196,Pop Song 196,Neha Kakkar,Pop,Hindi
+197,Pop Song 197,Neha Kakkar,Pop,Hindi
+198,Romantic Song 198,Sid Sriram,Romantic,Tamil
+199,Fusion Song 199,Dhanush,Fusion,Tamil
+200,Rock Song 200,Thaman S,Rock,Telugu
+201,Romantic Song 201,Anirudh Ravichander,Romantic,Telugu
+202,EDM Song 202,Sid Sriram,EDM,Telugu
+203,HipHop Song 203,Shreya Ghoshal,HipHop,Hindi
+204,Fusion Song 204,Dua Lipa,Fusion,English
+205,Fusion Song 205,Thaman S,Fusion,Telugu
+206,Pop Song 206,Neha Kakkar,Pop,Hindi
+207,HipHop Song 207,Sid Sriram,HipHop,Telugu
+208,Pop Song 208,Sid Sriram,Pop,Tamil
+209,Romantic Song 209,The Weeknd,Romantic,English
+210,Rock Song 210,Yuvan Shankar Raja,Rock,Tamil
+211,Romantic Song 211,Atif Aslam,Romantic,Hindi
+212,Fusion Song 212,Sid Sriram,Fusion,Telugu
+213,Rock Song 213,Atif Aslam,Rock,Hindi
+214,Romantic Song 214,The Weeknd,Romantic,English
+215,Romantic Song 215,Atif Aslam,Romantic,Hindi
+216,HipHop Song 216,Atif Aslam,HipHop,Hindi
+217,Romantic Song 217,Atif Aslam,Romantic,Hindi
+218,Fusion Song 218,Anirudh Ravichander,Fusion,Tamil
+219,Romantic Song 219,Dhanush,Romantic,Tamil
+220,EDM Song 220,Thaman S,EDM,Telugu
+221,Romantic Song 221,Arijit Singh,Romantic,Hindi
+222,Rock Song 222,Thaman S,Rock,Telugu
+223,Fusion Song 223,Dua Lipa,Fusion,English
+224,Rock Song 224,Taylor Swift,Rock,English
+225,Fusion Song 225,Devi Sri Prasad,Fusion,Telugu
+226,Fusion Song 226,Anirudh Ravichander,Fusion,Tamil
+227,Rock Song 227,Arijit Singh,Rock,Hindi
+228,Pop Song 228,Shreya Ghoshal,Pop,Hindi
+229,HipHop Song 229,Anirudh Ravichander,HipHop,Telugu
+230,Pop Song 230,Anirudh Ravichander,Pop,Tamil
+231,EDM Song 231,Neha Kakkar,EDM,Hindi
+232,EDM Song 232,Anirudh Ravichander,EDM,Telugu
+233,Pop Song 233,Thaman S,Pop,Telugu
+234,Pop Song 234,Sid Sriram,Pop,Tamil
+235,HipHop Song 235,Shreya Ghoshal,HipHop,Hindi
+236,HipHop Song 236,Anirudh Ravichander,HipHop,Telugu
+237,EDM Song 237,Shreya Ghoshal,EDM,Hindi
+238,Fusion Song 238,Anirudh Ravichander,Fusion,Telugu
+239,EDM Song 239,Anirudh Ravichander,EDM,Tamil
+240,Rock Song 240,Thaman S,Rock,Telugu
+241,HipHop Song 241,Atif Aslam,HipHop,Hindi
+242,Fusion Song 242,Dua Lipa,Fusion,English
+243,Pop Song 243,Thaman S,Pop,Telugu
+244,Romantic Song 244,Devi Sri Prasad,Romantic,Telugu
+245,Pop Song 245,Sid Sriram,Pop,Telugu
+246,Fusion Song 246,Arijit Singh,Fusion,Hindi
+247,Pop Song 247,Devi Sri Prasad,Pop,Telugu
+248,Romantic Song 248,Atif Aslam,Romantic,Hindi
+249,Pop Song 249,Sid Sriram,Pop,Telugu
+250,Rock Song 250,Taylor Swift,Rock,English
+251,Pop Song 251,Yuvan Shankar Raja,Pop,Tamil
+252,EDM Song 252,Atif Aslam,EDM,Hindi
+253,HipHop Song 253,The Weeknd,HipHop,English
+254,Pop Song 254,Dhanush,Pop,Tamil
+255,Pop Song 255,Yuvan Shankar Raja,Pop,Tamil
+256,Fusion Song 256,Dua Lipa,Fusion,English
+257,Rock Song 257,Atif Aslam,Rock,Hindi
+258,Fusion Song 258,Neha Kakkar,Fusion,Hindi
+259,HipHop Song 259,Ed Sheeran,HipHop,English
+260,HipHop Song 260,Dua Lipa,HipHop,English
+261,Fusion Song 261,Anirudh Ravichander,Fusion,Telugu
+262,EDM Song 262,Yuvan Shankar Raja,EDM,Tamil
+263,Rock Song 263,Yuvan Shankar Raja,Rock,Tamil
+264,Fusion Song 264,Devi Sri Prasad,Fusion,Telugu
+265,Rock Song 265,Shreya Ghoshal,Rock,Hindi
+266,Romantic Song 266,The Weeknd,Romantic,English
+267,Fusion Song 267,Dhanush,Fusion,Tamil
+268,Pop Song 268,The Weeknd,Pop,English
+269,EDM Song 269,Neha Kakkar,EDM,Hindi
+270,HipHop Song 270,The Weeknd,HipHop,English
+271,Fusion Song 271,Dhanush,Fusion,Tamil
+272,Rock Song 272,Dhanush,Rock,Tamil
+273,EDM Song 273,Arijit Singh,EDM,Hindi
+274,EDM Song 274,Dua Lipa,EDM,English
+275,Fusion Song 275,Shreya Ghoshal,Fusion,Hindi
+276,Romantic Song 276,Anirudh Ravichander,Romantic,Tamil
+277,Rock Song 277,Yuvan Shankar Raja,Rock,Tamil
+278,EDM Song 278,Sid Sriram,EDM,Tamil
+279,Pop Song 279,Dhanush,Pop,Tamil
+280,HipHop Song 280,Atif Aslam,HipHop,Hindi
+281,Pop Song 281,Thaman S,Pop,Telugu
+282,EDM Song 282,Ed Sheeran,EDM,English
+283,Romantic Song 283,Sid Sriram,Romantic,Telugu
+284,Rock Song 284,Taylor Swift,Rock,English
+285,Romantic Song 285,Sid Sriram,Romantic,Tamil
+286,Fusion Song 286,Neha Kakkar,Fusion,Hindi
+287,HipHop Song 287,Ed Sheeran,HipHop,English
+288,Pop Song 288,Devi Sri Prasad,Pop,Telugu
+289,EDM Song 289,Dhanush,EDM,Tamil
+290,HipHop Song 290,Ed Sheeran,HipHop,English
+291,Pop Song 291,Atif Aslam,Pop,Hindi
+292,Fusion Song 292,Dua Lipa,Fusion,English
+293,Romantic Song 293,Dua Lipa,Romantic,English
+294,Romantic Song 294,Dhanush,Romantic,Tamil
+295,Fusion Song 295,Devi Sri Prasad,Fusion,Telugu
+296,Pop Song 296,Sid Sriram,Pop,Tamil
+297,Romantic Song 297,Shreya Ghoshal,Romantic,Hindi
+298,Fusion Song 298,Shreya Ghoshal,Fusion,Hindi
+299,Rock Song 299,Yuvan Shankar Raja,Rock,Tamil
+300,Pop Song 300,Neha Kakkar,Pop,Hindi
+301,Pop Song 301,Neha Kakkar,Pop,Hindi
+302,Pop Song 302,Anirudh Ravichander,Pop,Telugu
+303,Fusion Song 303,Neha Kakkar,Fusion,Hindi
+304,HipHop Song 304,Dua Lipa,HipHop,English
+305,Fusion Song 305,Thaman S,Fusion,Telugu
+306,Romantic Song 306,Atif Aslam,Romantic,Hindi
+307,Romantic Song 307,Anirudh Ravichander,Romantic,Tamil
+308,EDM Song 308,Arijit Singh,EDM,Hindi
+309,EDM Song 309,The Weeknd,EDM,English
+310,EDM Song 310,Yuvan Shankar Raja,EDM,Tamil
+311,Pop Song 311,Neha Kakkar,Pop,Hindi
+312,Fusion Song 312,The Weeknd,Fusion,English
+313,Pop Song 313,Sid Sriram,Pop,Tamil
+314,EDM Song 314,Anirudh Ravichander,EDM,Telugu
+315,Rock Song 315,Arijit Singh,Rock,Hindi
+316,HipHop Song 316,Dhanush,HipHop,Tamil
+317,Romantic Song 317,Thaman S,Romantic,Telugu
+318,Pop Song 318,Atif Aslam,Pop,Hindi
+319,HipHop Song 319,Atif Aslam,HipHop,Hindi
+320,Pop Song 320,Arijit Singh,Pop,Hindi
+321,Pop Song 321,Dua Lipa,Pop,English
+322,Romantic Song 322,Ed Sheeran,Romantic,English
+323,EDM Song 323,Dhanush,EDM,Tamil
+324,Pop Song 324,Yuvan Shankar Raja,Pop,Tamil
+325,Rock Song 325,Shreya Ghoshal,Rock,Hindi
+326,Rock Song 326,Yuvan Shankar Raja,Rock,Tamil
+327,HipHop Song 327,Anirudh Ravichander,HipHop,Telugu
+328,Fusion Song 328,Ed Sheeran,Fusion,English
+329,Fusion Song 329,Ed Sheeran,Fusion,English
+330,Fusion Song 330,The Weeknd,Fusion,English
+331,Fusion Song 331,Anirudh Ravichander,Fusion,Tamil
+332,Rock Song 332,Thaman S,Rock,Telugu
+333,Romantic Song 333,Sid Sriram,Romantic,Tamil
+334,HipHop Song 334,Sid Sriram,HipHop,Telugu
+335,Fusion Song 335,Dhanush,Fusion,Tamil
+336,Rock Song 336,Dua Lipa,Rock,English
+337,Rock Song 337,Dhanush,Rock,Tamil
+338,HipHop Song 338,Dua Lipa,HipHop,English
+339,Romantic Song 339,Neha Kakkar,Romantic,Hindi
+340,Romantic Song 340,Ed Sheeran,Romantic,English
+341,HipHop Song 341,Taylor Swift,HipHop,English
+342,Romantic Song 342,Anirudh Ravichander,Romantic,Telugu
+343,EDM Song 343,Anirudh Ravichander,EDM,Tamil
+344,EDM Song 344,Thaman S,EDM,Telugu
+345,HipHop Song 345,Devi Sri Prasad,HipHop,Telugu
+346,Pop Song 346,Atif Aslam,Pop,Hindi
+347,Rock Song 347,Neha Kakkar,Rock,Hindi
+348,Fusion Song 348,Neha Kakkar,Fusion,Hindi
+349,HipHop Song 349,Atif Aslam,HipHop,Hindi
+350,Romantic Song 350,Devi Sri Prasad,Romantic,Telugu
+351,EDM Song 351,Dhanush,EDM,Tamil
+352,EDM Song 352,Dua Lipa,EDM,English
+353,Rock Song 353,Anirudh Ravichander,Rock,Tamil
+354,Pop Song 354,The Weeknd,Pop,English
+355,Fusion Song 355,Dua Lipa,Fusion,English
+356,EDM Song 356,Arijit Singh,EDM,Hindi
+357,Rock Song 357,Neha Kakkar,Rock,Hindi
+358,Rock Song 358,Thaman S,Rock,Telugu
+359,Romantic Song 359,Sid Sriram,Romantic,Tamil
+360,Fusion Song 360,Atif Aslam,Fusion,Hindi
+361,Rock Song 361,The Weeknd,Rock,English
+362,Pop Song 362,Yuvan Shankar Raja,Pop,Tamil
+363,Rock Song 363,Taylor Swift,Rock,English
+364,Fusion Song 364,The Weeknd,Fusion,English
+365,Pop Song 365,Dhanush,Pop,Tamil
+366,Pop Song 366,Anirudh Ravichander,Pop,Tamil
+367,Fusion Song 367,Dhanush,Fusion,Tamil
+368,Rock Song 368,Yuvan Shankar Raja,Rock,Tamil
+369,Fusion Song 369,Ed Sheeran,Fusion,English
+370,Rock Song 370,Arijit Singh,Rock,Hindi
+371,Rock Song 371,Dhanush,Rock,Tamil
+372,EDM Song 372,Ed Sheeran,EDM,English
+373,Fusion Song 373,The Weeknd,Fusion,English
+374,Rock Song 374,Anirudh Ravichander,Rock,Tamil
+375,Romantic Song 375,Thaman S,Romantic,Telugu
+376,Fusion Song 376,Dua Lipa,Fusion,English
+377,HipHop Song 377,Atif Aslam,HipHop,Hindi
+378,HipHop Song 378,Shreya Ghoshal,HipHop,Hindi
+379,EDM Song 379,Arijit Singh,EDM,Hindi
+380,Rock Song 380,The Weeknd,Rock,English
+381,EDM Song 381,Atif Aslam,EDM,Hindi
+382,Fusion Song 382,Atif Aslam,Fusion,Hindi
+383,Pop Song 383,Taylor Swift,Pop,English
+384,Rock Song 384,Ed Sheeran,Rock,English
+385,Romantic Song 385,Dua Lipa,Romantic,English
+386,Romantic Song 386,Anirudh Ravichander,Romantic,Telugu
+387,Fusion Song 387,Yuvan Shankar Raja,Fusion,Tamil
+388,Fusion Song 388,Shreya Ghoshal,Fusion,Hindi
+389,EDM Song 389,Yuvan Shankar Raja,EDM,Tamil
+390,Rock Song 390,Taylor Swift,Rock,English
+391,HipHop Song 391,Anirudh Ravichander,HipHop,Telugu
+392,EDM Song 392,Dua Lipa,EDM,English
+393,Romantic Song 393,Shreya Ghoshal,Romantic,Hindi
+394,Fusion Song 394,Sid Sriram,Fusion,Telugu
+395,HipHop Song 395,Arijit Singh,HipHop,Hindi
+396,Romantic Song 396,Dhanush,Romantic,Tamil
+397,Fusion Song 397,Dua Lipa,Fusion,English
+398,Romantic Song 398,Dua Lipa,Romantic,English
+399,EDM Song 399,Sid Sriram,EDM,Tamil
+400,Romantic Song 400,Arijit Singh,Romantic,Hindi
+401,HipHop Song 401,Arijit Singh,HipHop,Hindi
+402,Romantic Song 402,Ed Sheeran,Romantic,English
+403,Pop Song 403,Anirudh Ravichander,Pop,Tamil
+404,Fusion Song 404,Anirudh Ravichander,Fusion,Tamil
+405,Rock Song 405,Yuvan Shankar Raja,Rock,Tamil
+406,Pop Song 406,Yuvan Shankar Raja,Pop,Tamil
+407,Romantic Song 407,Taylor Swift,Romantic,English
+408,Romantic Song 408,Ed Sheeran,Romantic,English
+409,Fusion Song 409,Atif Aslam,Fusion,Hindi
+410,HipHop Song 410,Anirudh Ravichander,HipHop,Tamil
+411,Pop Song 411,Arijit Singh,Pop,Hindi
+412,EDM Song 412,Dhanush,EDM,Tamil
+413,Fusion Song 413,Shreya Ghoshal,Fusion,Hindi
+414,Rock Song 414,Shreya Ghoshal,Rock,Hindi
+415,EDM Song 415,Thaman S,EDM,Telugu
+416,Fusion Song 416,Sid Sriram,Fusion,Tamil
+417,EDM Song 417,Anirudh Ravichander,EDM,Tamil
+418,EDM Song 418,Sid Sriram,EDM,Tamil
+419,EDM Song 419,Arijit Singh,EDM,Hindi
+420,Fusion Song 420,Dhanush,Fusion,Tamil
+421,HipHop Song 421,Sid Sriram,HipHop,Tamil
+422,Romantic Song 422,Anirudh Ravichander,Romantic,Telugu
+423,Pop Song 423,Ed Sheeran,Pop,English
+424,Pop Song 424,Dhanush,Pop,Tamil
+425,EDM Song 425,Yuvan Shankar Raja,EDM,Tamil
+426,HipHop Song 426,Ed Sheeran,HipHop,English
+427,HipHop Song 427,Anirudh Ravichander,HipHop,Tamil
+428,Rock Song 428,Sid Sriram,Rock,Telugu
+429,Pop Song 429,Neha Kakkar,Pop,Hindi
+430,Romantic Song 430,Dhanush,Romantic,Tamil
+431,Fusion Song 431,The Weeknd,Fusion,English
+432,HipHop Song 432,Atif Aslam,HipHop,Hindi
+433,Pop Song 433,Ed Sheeran,Pop,English
+434,EDM Song 434,Dua Lipa,EDM,English
+435,Rock Song 435,Dhanush,Rock,Tamil
+436,Rock Song 436,Thaman S,Rock,Telugu
+437,Rock Song 437,Atif Aslam,Rock,Hindi
+438,HipHop Song 438,Ed Sheeran,HipHop,English
+439,Pop Song 439,Dua Lipa,Pop,English
+440,HipHop Song 440,Dua Lipa,HipHop,English
+441,Pop Song 441,Atif Aslam,Pop,Hindi
+442,Pop Song 442,Thaman S,Pop,Telugu
+443,EDM Song 443,Atif Aslam,EDM,Hindi
+444,Rock Song 444,Anirudh Ravichander,Rock,Tamil
+445,EDM Song 445,Sid Sriram,EDM,Telugu
+446,EDM Song 446,Taylor Swift,EDM,English
+447,Pop Song 447,Devi Sri Prasad,Pop,Telugu
+448,EDM Song 448,Thaman S,EDM,Telugu
+449,EDM Song 449,Anirudh Ravichander,EDM,Telugu
+450,Fusion Song 450,Devi Sri Prasad,Fusion,Telugu
+451,EDM Song 451,Sid Sriram,EDM,Tamil
+452,Romantic Song 452,Yuvan Shankar Raja,Romantic,Tamil
+453,Fusion Song 453,Sid Sriram,Fusion,Tamil
+454,Romantic Song 454,Atif Aslam,Romantic,Hindi
+455,Rock Song 455,Dhanush,Rock,Tamil
+456,Romantic Song 456,Dua Lipa,Romantic,English
+457,Fusion Song 457,Ed Sheeran,Fusion,English
+458,Romantic Song 458,Dua Lipa,Romantic,English
+459,Fusion Song 459,Ed Sheeran,Fusion,English
+460,EDM Song 460,Shreya Ghoshal,EDM,Hindi
+461,Romantic Song 461,Dua Lipa,Romantic,English
+462,Rock Song 462,Shreya Ghoshal,Rock,Hindi
+463,Pop Song 463,Anirudh Ravichander,Pop,Telugu
+464,Romantic Song 464,Dhanush,Romantic,Tamil
+465,Pop Song 465,Anirudh Ravichander,Pop,Tamil
+466,EDM Song 466,Neha Kakkar,EDM,Hindi
+467,Romantic Song 467,The Weeknd,Romantic,English
+468,HipHop Song 468,Ed Sheeran,HipHop,English
+469,Pop Song 469,Yuvan Shankar Raja,Pop,Tamil
+470,HipHop Song 470,Sid Sriram,HipHop,Telugu
+471,EDM Song 471,The Weeknd,EDM,English
+472,EDM Song 472,Sid Sriram,EDM,Telugu
+473,Rock Song 473,Devi Sri Prasad,Rock,Telugu
+474,Fusion Song 474,Neha Kakkar,Fusion,Hindi
+475,HipHop Song 475,Devi Sri Prasad,HipHop,Telugu
+476,Rock Song 476,Taylor Swift,Rock,English
+477,Fusion Song 477,Sid Sriram,Fusion,Tamil
+478,Pop Song 478,Sid Sriram,Pop,Tamil
+479,HipHop Song 479,Taylor Swift,HipHop,English
+480,Romantic Song 480,Dhanush,Romantic,Tamil
+481,HipHop Song 481,Shreya Ghoshal,HipHop,Hindi
+482,Fusion Song 482,Taylor Swift,Fusion,English
+483,Fusion Song 483,Yuvan Shankar Raja,Fusion,Tamil
+484,Fusion Song 484,Atif Aslam,Fusion,Hindi
+485,Pop Song 485,Dua Lipa,Pop,English
+486,Pop Song 486,Thaman S,Pop,Telugu
+487,Romantic Song 487,Devi Sri Prasad,Romantic,Telugu
+488,HipHop Song 488,Arijit Singh,HipHop,Hindi
+489,EDM Song 489,Ed Sheeran,EDM,English
+490,HipHop Song 490,Arijit Singh,HipHop,Hindi
+491,EDM Song 491,Yuvan Shankar Raja,EDM,Tamil
+492,Romantic Song 492,Thaman S,Romantic,Telugu
+493,Pop Song 493,Shreya Ghoshal,Pop,Hindi
+494,Rock Song 494,Yuvan Shankar Raja,Rock,Tamil
+495,Romantic Song 495,Dua Lipa,Romantic,English
+496,Fusion Song 496,Taylor Swift,Fusion,English
+497,Pop Song 497,Anirudh Ravichander,Pop,Tamil
+498,HipHop Song 498,Taylor Swift,HipHop,English
+499,Rock Song 499,Yuvan Shankar Raja,Rock,Tamil
+500,EDM Song 500,Neha Kakkar,EDM,Hindi
+501,EDM Song 501,Atif Aslam,EDM,Hindi
+502,EDM Song 502,Anirudh Ravichander,EDM,Telugu
+503,Pop Song 503,Neha Kakkar,Pop,Hindi
+504,HipHop Song 504,Devi Sri Prasad,HipHop,Telugu
+505,Fusion Song 505,Thaman S,Fusion,Telugu
+506,Romantic Song 506,Yuvan Shankar Raja,Romantic,Tamil
+507,Fusion Song 507,Anirudh Ravichander,Fusion,Telugu
+508,EDM Song 508,Devi Sri Prasad,EDM,Telugu
+509,Fusion Song 509,Sid Sriram,Fusion,Telugu
+510,Romantic Song 510,The Weeknd,Romantic,English
+511,Romantic Song 511,Ed Sheeran,Romantic,English
+512,Pop Song 512,Atif Aslam,Pop,Hindi
+513,Pop Song 513,Thaman S,Pop,Telugu
+514,HipHop Song 514,Shreya Ghoshal,HipHop,Hindi
+515,EDM Song 515,Thaman S,EDM,Telugu
+516,Pop Song 516,Yuvan Shankar Raja,Pop,Tamil
+517,Pop Song 517,Ed Sheeran,Pop,English
+518,HipHop Song 518,Arijit Singh,HipHop,Hindi
+519,EDM Song 519,The Weeknd,EDM,English
+520,EDM Song 520,Taylor Swift,EDM,English
