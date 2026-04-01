@@ -42,9 +42,9 @@ if menu == "Recommend Songs":
         else:
             st.dataframe(result.head(10))
 
-# ----------------------------
+# ----------------
 # 2. SEARCH
-# ----------------------------
+# ----------------
 elif menu == "Search Song":
     st.header("🔍 Search Song")
 
