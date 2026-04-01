@@ -58,9 +58,9 @@ elif menu == "Search Song":
         else:
             st.dataframe(result.head(10))
 
-# ----------------------------
+# --------------------
 # 3. TRENDING
-# ----------------------------
+# --------------------
 elif menu == "Trending Songs":
     st.header("🔥 Trending Songs")
 
